@@ -1,4 +1,4 @@
-# IVR Multi Module - Camel Quarkus
+# Example Multi Module - Camel Quarkus
 
 Proyecto POC multi-módulo Maven con **Apache Camel Quarkus** que expone múltiples rutas REST desde módulos independientes, integradas en una sola aplicación.
 

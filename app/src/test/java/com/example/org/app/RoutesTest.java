@@ -1,4 +1,4 @@
-package com.banreservas.ivr.app;
+package com.example.org.app;
 
 import io.quarkus.test.junit.QuarkusTest;
 import org.junit.jupiter.api.Test;
@@ -136,3 +136,4 @@ class RoutesTest {
             .statusCode(200);
     }
 }
+

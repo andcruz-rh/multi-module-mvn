@@ -5,25 +5,25 @@
     <modelVersion>4.0.0</modelVersion>
 
     <parent>
-        <groupId>com.banreservas.ivr</groupId>
+        <groupId>com.example.org</groupId>
         <artifactId>multi-module-mvn</artifactId>
         <version>1.0.0-SNAPSHOT</version>
         <relativePath>../pom.xml</relativePath>
     </parent>
 
     <artifactId>app</artifactId>
-    <name>IVR Multi Module - Application</name>
+    <name>Example Multi Module - Application</name>
     <description>Aplicación Quarkus que integra todas las rutas Camel en un solo proceso</description>
 
     <dependencies>
         <!-- Route modules -->
         <dependency>
-            <groupId>com.banreservas.ivr</groupId>
+            <groupId>com.example.org</groupId>
             <artifactId>route-one</artifactId>
             <version>${project.version}</version>
         </dependency>
         <dependency>
-            <groupId>com.banreservas.ivr</groupId>
+            <groupId>com.example.org</groupId>
             <artifactId>route-two</artifactId>
             <version>${project.version}</version>
         </dependency>

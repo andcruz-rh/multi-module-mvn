@@ -1,4 +1,4 @@
-package com.banreservas.ivr.routetwo;
+package com.example.org.routetwo;
 
 import jakarta.enterprise.context.ApplicationScoped;
 import org.apache.camel.builder.RouteBuilder;

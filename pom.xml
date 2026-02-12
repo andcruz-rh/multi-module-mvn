@@ -4,12 +4,12 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>com.banreservas.ivr</groupId>
+    <groupId>com.example.org</groupId>
     <artifactId>multi-module-mvn</artifactId>
     <version>1.0.0-SNAPSHOT</version>
     <packaging>pom</packaging>
 
-    <name>IVR Multi Module - Parent</name>
+    <name>Example Multi Module - Parent</name>
     <description>Proyecto multi-módulo Maven con Camel Quarkus</description>
 
     <modules>
